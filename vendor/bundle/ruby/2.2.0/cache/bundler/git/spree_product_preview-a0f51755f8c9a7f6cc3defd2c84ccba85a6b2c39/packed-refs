@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+a5463a574f2d99246148757a41b573c698e2d7b6 refs/heads/2-0-stable
+a5463a574f2d99246148757a41b573c698e2d7b6 refs/heads/2-1-stable
+a5463a574f2d99246148757a41b573c698e2d7b6 refs/heads/2-2-stable
+a5463a574f2d99246148757a41b573c698e2d7b6 refs/heads/2-3-stable
+a5463a574f2d99246148757a41b573c698e2d7b6 refs/heads/2-4-stable
+ea34ca784b2f3eabd8b9d3f21d3be7d96a2dd10b refs/heads/3-0-stable
+ea34ca784b2f3eabd8b9d3f21d3be7d96a2dd10b refs/heads/master
